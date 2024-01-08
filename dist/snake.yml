@@ -1,5 +1,34 @@
-mkdir dist
-touch dist/snake.yml
-git add dist/snake.yml
-git commit -m "Añadir carpeta dist con snake.yml"
-git push origin master
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@master
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/snake.svg
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update generated snake.svg"
+          repository: "."
+          branch: output
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: output
+          github_token: ${{ secrets.GITHUB_TOKEN }}
