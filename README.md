@@ -35,4 +35,5 @@ Let's connect and share our passion for the ever-evolving world of web developme
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 
 
+![Snake Animation](./snake.yml)
 
