@@ -1,0 +1,5 @@
+mkdir dist
+touch dist/snake.yml
+git add dist/snake.yml
+git commit -m "Añadir carpeta dist con snake.yml"
+git push origin master
