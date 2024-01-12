@@ -23,6 +23,9 @@ I'm immersed in the exciting world of web development, honing my skills and expa
 📫 **Connect with Me:**
 Feel free to reach out and connect with me on LinkedIn. I'm always open to networking and engaging in conversations related to web development, technology, and more.
 
+You can also contact me through my email **teixido.alan@gmail.com**
+
+
 Let's connect and share our passion for the ever-evolving world of web development! 🚀
 
 
