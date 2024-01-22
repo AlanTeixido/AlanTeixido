@@ -1,3 +1,6 @@
+![Header banner](https://github.com/AlanTeixido/AlanTeixido/assets/152865024/82cff999-2562-4353-a76c-8605fd579cd2)
+
+
 ```kotlin
 class SoftwareEngineer {
     var name: String = "Alan Teixidó"
@@ -9,11 +12,7 @@ class SoftwareEngineer {
     }
 }
 ```
-
 # Hi there! 👋
-
-[![Linkedin: alanteixidosararols](https://img.shields.io/badge/-alanteixidosararols-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanteixidosararols)](https://www.linkedin.com/in/alanteixidosararols)
-
 
 I'm Alan Teixidó, a passionate learner currently enrolled in the ITB (Institut Tecnologic de Barcelona), pursuing a degree in DAW (Desarrollo de Aplicaciones Web).
 
@@ -21,9 +20,14 @@ I'm Alan Teixidó, a passionate learner currently enrolled in the ITB (Institut 
 I'm immersed in the exciting world of web development, honing my skills and expanding my knowledge in the realm of creating web applications.
 
 📫 **Connect with Me:**
-Feel free to reach out and connect with me on LinkedIn. I'm always open to networking and engaging in conversations related to web development, technology, and more.
+Feel free to reach out and connect with me on LinkedIn. I'm always open to networking and engaging in conversations related to web development, technology, and more. You can also contact me through my email.
 
-You can also contact me through my email **teixido.alan@gmail.com**
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanteixidosararols)
+[![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teixido.alan@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlanTeixido)
+
+
+
 
 
 Let's connect and share our passion for the ever-evolving world of web development! 🚀
@@ -31,11 +35,22 @@ Let's connect and share our passion for the ever-evolving world of web developme
 
 **👨‍💻 Programming Languages: 👨‍💻**
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![IntelliJ Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 <br>
 <br>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alanteixido&theme=light&show_icons=true&hide_border=true&theme=bear" width="400">
 </p>
+
 
