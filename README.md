@@ -52,8 +52,9 @@ Let's connect and share our passion for the ever-evolving world of web developme
 
 <br>
 <br>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanteixido&theme=light&show_icons=true&hide_border=true&theme=bear" width="400">
-</p>
-
+<details>
+  <summary><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" height="20"> Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanTeixido&layout=compact" />
+   <br />
+</details>
 
