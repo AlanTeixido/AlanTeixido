@@ -348,7 +348,7 @@ async function main() {
     'card-ask.svg': card({ tag: 'LIVE · AI', title: 'Ask my CV', desc: 'AI assistant in my website’s terminal that answers only from my CV. Python service behind nginx calling the Gemini API, streamed answers, guardrails and a zero budget.', tech: ['Python', 'nginx', 'Gemini API', 'systemd'] }),
     'card-genai.svg': card({ tag: 'CASE STUDY', title: 'GenAI Data Platform', desc: 'Natural-language analytics: an LLM turns business questions into governed SQL and publishes the results as Metabase dashboards.', tech: ['Python', 'PostgreSQL', 'Text-to-SQL', 'Metabase'] }),
     'card-fit.svg': card({ tag: 'LIVE · AI', title: 'Fit', desc: 'Personal training app with an AI coach built on the Claude API with tool use over my own data, plus Strava and Health Connect.', tech: ['Next.js', 'Supabase', 'Claude API'] }),
-    'card-protactics.svg': card({ tag: 'LIVE · DEMO', title: 'ProTactics', desc: 'Football club management platform: training planner, player tracking and an interactive drag-and-drop tactics board.', tech: ['Vue 3', 'Node.js', 'PostgreSQL', 'JWT'] }),
+    'card-protactics.svg': card({ tag: 'LIVE · DEMO', title: 'ProTactics', desc: 'Team project with two classmates: football club management platform with a training planner, player tracking and a drag-and-drop tactics board.', tech: ['Vue 3', 'Node.js', 'PostgreSQL', 'JWT'] }),
     'stack.svg': stack(),
     'btn-website.svg': button('alanteixido.dev', true),
     'btn-linkedin.svg': button('LinkedIn', false),
