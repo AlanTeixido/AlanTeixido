@@ -1,0 +1,14 @@
+{
+  "name": "profile-readme-assets",
+  "private": true,
+  "description": "Generates the animated SVGs in ../assets for the GitHub profile README",
+  "scripts": {
+    "build": "node gen.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "opentype.js": "1.3.4"
+  }
+}
