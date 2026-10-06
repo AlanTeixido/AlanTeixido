@@ -17,7 +17,7 @@ My website has an AI assistant in its terminal. Ask it anything about me at **[a
 ### Featured
 
 <a href="https://alanteixido.dev/projects.html#ask-my-cv"><img src="assets/card-ask.svg" width="49%" alt="Ask my CV — AI assistant in my website's terminal"></a> <a href="https://alanteixido.dev/projects.html#genai-data-platform"><img src="assets/card-genai.svg" width="49%" alt="GenAI Data Platform — natural-language analytics"></a>
-<a href="https://fit.alanteixido.dev"><img src="assets/card-fit.svg" width="49%" alt="Fit — training app with an AI coach"></a> <a href="https://github.com/AlanTeixido/ProTactics"><img src="assets/card-protactics.svg" width="49%" alt="ProTactics — football club management platform"></a>
+<a href="https://fit.alanteixido.dev"><img src="assets/card-fit.svg" width="49%" alt="Fit — training app with an AI coach"></a> <a href="https://alanteixido.github.io/ProTactics/"><img src="assets/card-protactics.svg" width="49%" alt="ProTactics — football club management platform"></a>
 
 ### Stack
 
